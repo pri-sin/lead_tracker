@@ -42,7 +42,7 @@ Optionally, add notes to provide more context.
 View your saved leads from within the popup UI.
 
 # 📁 Project Structure
-<pre>```
+<pre>```text
 css
 Copy
 Edit
