@@ -16,7 +16,9 @@ Lead_Tracker is a lightweight, easy-to-use Chrome extension built with JavaScrip
 
 # 📦 Installation
 Clone the repository:
-<pre> ``` bash git clone https://github.com/yourusername/lead_tracker.git ``` </pre>
+<code> 
+  ``` git clone https://github.com/yourusername/lead_tracker.git ```
+</code>
 
 # Load the extension in Chrome:
 
@@ -40,6 +42,7 @@ Click "Save Lead" to store the current URL.
 Optionally, add notes to provide more context.
 
 View your saved leads from within the popup UI.
+
 
 # 📁 Project Structure
 <pre>```text
