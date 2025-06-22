@@ -1,7 +1,7 @@
-🚀 Lead_Tracker – Chrome Extension for Sales Lead Management
+# 🚀 Lead_Tracker – Chrome Extension for Sales Lead Management
 Lead_Tracker is a lightweight, easy-to-use Chrome extension built with JavaScript to help sales representatives track and manage sales leads directly from their browser. With a single click, users can save URLs, notes, and other relevant lead information while browsing, streamlining the lead generation process and improving productivity.
 
-🧩 Features
+# 🧩 Features
 ✅ Save the current tab's URL as a lead
 
 📝 Add custom notes or details for each lead
@@ -14,14 +14,15 @@ Lead_Tracker is a lightweight, easy-to-use Chrome extension built with JavaScrip
 
 🔒 Works offline – no external database or login required
 
-📦 Installation
+# 📦 Installation
 Clone the repository:
 
 bash
 Copy
 Edit
 git clone https://github.com/yourusername/lead_tracker.git
-Load the extension in Chrome:
+
+# Load the extension in Chrome:
 
 Open chrome://extensions/
 
@@ -33,7 +34,7 @@ Select the lead_tracker directory
 
 The Lead_Tracker icon will appear in your browser toolbar.
 
-🛠️ Usage
+# 🛠️ Usage
 Navigate to a page you want to save as a lead.
 
 Click the Lead_Tracker icon in the Chrome toolbar.
@@ -44,7 +45,7 @@ Optionally, add notes to provide more context.
 
 View your saved leads from within the popup UI.
 
-📁 Project Structure
+# 📁 Project Structure
 css
 Copy
 Edit
@@ -54,14 +55,15 @@ lead_tracker/
 ├── index.js
 ├── index.css
 ├── manifest.json
-🔧 Tech Stack
+
+# 🔧 Tech Stack
 HTML, CSS, JavaScript
 
 Chrome Extension APIs
 
 localStorage for data persistence
 
-🚧 Future Improvements
+# 🚧 Future Improvements
 ✅ Export leads to CSV
 
 🔁 Sync with cloud storage (e.g., Google Sheets, Firebase)
@@ -70,8 +72,8 @@ localStorage for data persistence
 
 🔍 Search and filter leads
 
-🤝 Contributing
+# 🤝 Contributing
 Contributions are welcome! Please fork the repo and submit a pull request. For major changes, open an issue first to discuss what you'd like to change.
 
-🙌 Acknowledgments
+# 🙌 Acknowledgments
 Inspired by the need to simplify lead capture for busy sales reps without complex CRM tools.
