@@ -16,12 +16,12 @@ Lead_Tracker is a lightweight, easy-to-use Chrome extension built with JavaScrip
 
 # 📦 Installation
 Clone the repository:
-
+```
 bash
 Copy
 Edit
 git clone https://github.com/yourusername/lead_tracker.git
-
+```
 # Load the extension in Chrome:
 
 Open chrome://extensions/
