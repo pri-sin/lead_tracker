@@ -1,19 +1,77 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+🚀 Lead_Tracker – Chrome Extension for Sales Lead Management
+Lead_Tracker is a lightweight, easy-to-use Chrome extension built with JavaScript to help sales representatives track and manage sales leads directly from their browser. With a single click, users can save URLs, notes, and other relevant lead information while browsing, streamlining the lead generation process and improving productivity.
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+🧩 Features
+✅ Save the current tab's URL as a lead
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+📝 Add custom notes or details for each lead
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+📋 View, manage, and delete saved leads
 
-Happy Coding!
+💾 Persistent storage using localStorage
+
+🧠 Simple, clean interface for quick access
+
+🔒 Works offline – no external database or login required
+
+📦 Installation
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/lead_tracker.git
+Load the extension in Chrome:
+
+Open chrome://extensions/
+
+Enable Developer Mode
+
+Click "Load unpacked"
+
+Select the lead_tracker directory
+
+The Lead_Tracker icon will appear in your browser toolbar.
+
+🛠️ Usage
+Navigate to a page you want to save as a lead.
+
+Click the Lead_Tracker icon in the Chrome toolbar.
+
+Click "Save Lead" to store the current URL.
+
+Optionally, add notes to provide more context.
+
+View your saved leads from within the popup UI.
+
+📁 Project Structure
+css
+Copy
+Edit
+lead_tracker/
+├── icon.png
+├── index.html
+├── index.js
+├── index.css
+├── manifest.json
+🔧 Tech Stack
+HTML, CSS, JavaScript
+
+Chrome Extension APIs
+
+localStorage for data persistence
+
+🚧 Future Improvements
+✅ Export leads to CSV
+
+🔁 Sync with cloud storage (e.g., Google Sheets, Firebase)
+
+🔔 Reminders or follow-up scheduling
+
+🔍 Search and filter leads
+
+🤝 Contributing
+Contributions are welcome! Please fork the repo and submit a pull request. For major changes, open an issue first to discuss what you'd like to change.
+
+🙌 Acknowledgments
+Inspired by the need to simplify lead capture for busy sales reps without complex CRM tools.
